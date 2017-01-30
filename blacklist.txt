@@ -1,0 +1,10 @@
+ahcdn.com
+rncdn7.com
+qa.samsungtvads.com
+ads.samsungads.com
+www.samsungrm.net
+pavv.co.kr
+samsungotn.net
+devices-rts11-production-513063304.us-east-1.elb.amazonaws.com
+coordinator-production-28516768.us-east-1.elb.amazonaws.com
+osb-krsvc.samsungqbe.com
