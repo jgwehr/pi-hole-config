@@ -22,3 +22,8 @@ https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
 https://hosts-file.net/ad_servers.txt
 
 https://v.firebog.net/hosts/static/w3kbl.txt
+https://rules.emergingthreats.net/blockrules/compromised-ips.txt
+https://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt
+https://easylist-downloads.adblockplus.org/antiadblockfilters.txt
+https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt
+https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt

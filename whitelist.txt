@@ -34,3 +34,5 @@ dashboard.plex.tv
 www.tkqlhce.com
 zeustracker.abuse.ch
 v.firebog.net
+rules.emergingthreats.net
+easylist-downloads.adblockplus.org
