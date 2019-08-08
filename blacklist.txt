@@ -23,3 +23,6 @@ assets.locuslabs.com
 device-api.urbanairship.com
 log-ingestion.samsungacr.com
 lcprd1.samsungcloudsolution.net
+accounts.nvgs.nvidia.com
+js.driftt.com
+www.oriori.com
